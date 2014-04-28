@@ -1,0 +1,57 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[A.~D.~Light(2013)]{light13}
+{\sc A.~D.~Light, et~al.} 2013 {\em Physics of Plasmas\/} {\bf 20}.
+
+\bibitem[B.~Friedman(2012)]{friedman12}
+{\sc B.~Friedman, et~al.} 2012 {\em Phys. Plasmas\/} {\bf 19}.
+
+\bibitem[B.~Friedman(2013)]{friedman13}
+{\sc B.~Friedman, et~al.} 2013 {\em Phys. Plasmas\/} {\bf 20}.
+
+\bibitem[C.~Chaston(2010)]{chaston10}
+{\sc C.~Chaston, et~al.} 2010 {\em Geophys. Res. Lett.\/} {\bf 37}.
+
+\bibitem[G.~R.~McKee(2003)]{mckee03}
+{\sc G.~R.~McKee, et~al.} 2003 {\em Physics of Plasmas\/} {\bf 10}.
+
+\bibitem[G.~S.~Xu(2009)]{xu09}
+{\sc G.~S.~Xu, et~al.} 2009 {\em Nucl. Fusion\/} {\bf 49}.
+
+\bibitem[G.~Y.~Antar(2007)]{antar07}
+{\sc G.~Y.~Antar, et~al.} 2007 {\em Physics of Plasma\/} {\bf 14}.
+
+\bibitem[J.~E.~Maggs \& Taylor(2007)]{maggs07}
+{\sc J.~E.~Maggs, T. A.~Carter \& Taylor, R.~J.} 2007 {\em Phys. Plasmas\/}
+  {\bf 14}.
+
+\bibitem[J.~M.~Beall(1982)]{beall82}
+{\sc J.~M.~Beall, Y. C.~Kim, E. J.~Powers} 1982 {\em J. Appl. Phys.\/} {\bf
+  53}.
+
+\bibitem[P.~Popovich(2010)]{popovich10}
+{\sc P.~Popovich, M. V.~Umansky, T. A. Carter B.~Friedman} 2010 {\em Phys.
+  Plasmas\/} {\bf 17}.
+
+\bibitem[S.~Jachmich(1998)]{jachmich98}
+{\sc S.~Jachmich, et~al.} 1998 {\em Plasma Phys. Control. Fusion\/} {\bf 40}.
+
+\bibitem[S.~Oldenbürger \& Bonhomme(2010)]{oldenburger10}
+{\sc S.~Oldenbürger, C.~Brandt, F. Brochard N.~Lemoine \& Bonhomme, G.} 2010
+  {\em Rev. Sci. Instrum.\/} {\bf 81}.
+
+\bibitem[Schaffner(2012)]{schaffner12}
+{\sc Schaffner, D.~A., et~al.} 2012 Modification of turbulent transport with
+  continuous variation of flow shear in the large plasma device. {\em Physical
+  Review Letters\/} .
+
+\bibitem[Schaffner(2013)]{schaffner13}
+{\sc Schaffner, D.~A., et~al.} 2013 Turbulence and transport suppression
+  scaling with flow shear on the large plasma device. {\em Phys. Plasmas\/}
+  {\bf 20}.
+
+\bibitem[T.~Carter(2009)]{Carter09}
+{\sc T.~Carter, J.~Maggs} 2009 {\em Phys. Plasmas\/} {\bf 16}.
+
+\end{thebibliography}
